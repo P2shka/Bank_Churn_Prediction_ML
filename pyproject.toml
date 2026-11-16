@@ -16,7 +16,7 @@ dependencies = [
     "seaborn (>=0.13.2,<0.14.0)",
     "matplotlib (>=3.11.2,<4.0.0)",
     "xgboost (>=3.4.1,<4.0.0)",
-    "sklearn (>=0.0.post12,<0.1)"
+    "scikit-learn (>=1.9.1,<2.0.0)",
 ]
 
 
